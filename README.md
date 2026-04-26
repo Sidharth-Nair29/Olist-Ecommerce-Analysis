@@ -123,7 +123,7 @@ Structured into five analytical sections:
 ---
 
 ## Dashboard Preview
-![Sales Overview](<img width="508" height="288" alt="image" src="https://github.com/user-attachments/assets/b1335987-8885-48cb-9d43-5f7faca1ec74" />)
+![Sales Overview]( <img width="508" height="288" alt="image" src="https://github.com/user-attachments/assets/b1335987-8885-48cb-9d43-5f7faca1ec74" /> )
 ![Product Analysis](<img width="506" height="286" alt="image" src="https://github.com/user-attachments/assets/16750395-5d10-4db8-ae49-694a18bd8e86" />)
 ![Customer Analysis](<img width="506" height="286" alt="image" src="https://github.com/user-attachments/assets/cc82d017-ad34-4054-a653-18241b2014b3" />)
 ![Revenue Distribution](<img width="509" height="286" alt="image" src="https://github.com/user-attachments/assets/8366e1dd-3da4-4d67-9109-2fc41fb5d25f" />)
